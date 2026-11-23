@@ -1,0 +1,6 @@
+{
+  "name": "Ace Labs",
+  "description": "Independent software studio crafting focused, high-standard digital products that lead.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
